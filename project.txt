@@ -2,10 +2,18 @@ Empty project text file
 =========================
 Please insert below your contributions.
 
+<<<<<<< HEAD
 
 fabio:
 compro bolo
 
+=======
+<<<<<<< HEAD
+Henrique
+
+Caso ou compro uma bicicleta?? D:
+=======
+>>>>>>> 2dc997bf6f1d36dfde928a934c9c1466cc218468
 Rodrigo
 esta eh a minha contribuicao magnanima a este projeto
 muito obrigado
@@ -14,4 +22,8 @@ yes yes
 E=mc^2
 etc etc
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ce6715cb71c2540ead6c39ea8dcc984d9d6955e2
+>>>>>>> 2dc997bf6f1d36dfde928a934c9c1466cc218468
