@@ -2,6 +2,17 @@ Empty project text file
 =========================
 Please insert below your contributions.
 
+<<<<<<< HEAD
 Henrique
 
 Caso ou compro uma bicicleta?? D:
+=======
+Rodrigo
+esta eh a minha contribuicao magnanima a este projeto
+muito obrigado
+nao precisa agradecer
+yes yes
+E=mc^2
+etc etc
+
+>>>>>>> ce6715cb71c2540ead6c39ea8dcc984d9d6955e2
