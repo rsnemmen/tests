@@ -2,13 +2,16 @@ Empty project text file
 
 Please insert below your contributions.
 
-<<<<<<< HEAD
-
 Raniere
 
 A nova dentadura de Tereza:
 Quem quiser ver como é boa a dentadura, leve coco e rapadura para a casa de Tereza.
-=======
+
+
+bolos em diversos tamanhos e sabores - gustavo
+
+
+>>>>>>> bcce986cbaddfe2331d54dc100a142c8ee0297c8
 Henrique
 Caso ou compro uma bicicleta?? D:
 >>>>>>> 47806e9a00175ab4dbccf29ced4891fcdd0eda93
