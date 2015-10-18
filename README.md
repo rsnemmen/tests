@@ -1,7 +1,7 @@
 Learning to use Git and GitHub
 =================
 
-Repository to try out different features with git.
+Repository to try out Github and different Git features.
 
 # Tasks
 
