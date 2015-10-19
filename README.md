@@ -3,7 +3,9 @@ Learning to use Git and GitHub
 
 <img src="gitlogo.jpg" width="100px" />
 
-Try out Github and Git, contribute with files to a project that you are a part of.
+This tutorial will get you trying out Github and Git. Along the way, you will learn how to collaborate in a project you are a part of.
+
+TL;DR: how to add files to a github project and deal with merge conflicts.
 
 # Tasks
 
