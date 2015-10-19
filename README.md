@@ -1,7 +1,9 @@
 Learning to use Git and GitHub
 =================
 
-Repository to try out Github and different Git features.
+<img src="gitlogo.jpg" width="100px" />
+
+Try out Github and Git, contribute with files to a project that you are a part of.
 
 # Tasks
 
